@@ -1,0 +1,15 @@
+C:\Hack\MicrosoftHackABot\19.custom-dialogs\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Hack\MicrosoftHackABot\19.custom-dialogs\bin\Debug\netcoreapp2.1\Custom-Dialogs.deps.json
+C:\Hack\MicrosoftHackABot\19.custom-dialogs\bin\Debug\netcoreapp2.1\Custom-Dialogs.runtimeconfig.json
+C:\Hack\MicrosoftHackABot\19.custom-dialogs\bin\Debug\netcoreapp2.1\Custom-Dialogs.runtimeconfig.dev.json
+C:\Hack\MicrosoftHackABot\19.custom-dialogs\bin\Debug\netcoreapp2.1\Custom-Dialogs.dll
+C:\Hack\MicrosoftHackABot\19.custom-dialogs\bin\Debug\netcoreapp2.1\Custom-Dialogs.pdb
+C:\Hack\MicrosoftHackABot\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.csprojAssemblyReference.cache
+C:\Hack\MicrosoftHackABot\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.csproj.CoreCompileInputs.cache
+C:\Hack\MicrosoftHackABot\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.RazorAssemblyInfo.cache
+C:\Hack\MicrosoftHackABot\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.RazorAssemblyInfo.cs
+C:\Hack\MicrosoftHackABot\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.AssemblyInfoInputs.cache
+C:\Hack\MicrosoftHackABot\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.AssemblyInfo.cs
+C:\Hack\MicrosoftHackABot\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.RazorTargetAssemblyInfo.cache
+C:\Hack\MicrosoftHackABot\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.dll
+C:\Hack\MicrosoftHackABot\19.custom-dialogs\obj\Debug\netcoreapp2.1\Custom-Dialogs.pdb
