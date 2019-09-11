@@ -2,30 +2,29 @@ namespace DiaBOT.Posts
 {
     public class Diagnosis
     {
-        public string Nombre { get; set; }
-        public float Edad { get; set; }
-        public float Genero { get; set; }
-        public float Padres { get; set; }
-        public float Hermanos { get; set; }
-        public float Hijos { get; set; }
-        public float Otros { get; set; }
-        public float ActividadFisica { get; set; }
-        public float Tabaquismo { get; set; }
-        public float Tuberculosis { get; set; }
-        public float Cancer { get; set; }
-        public float Obesidad { get; set; }
-        public float Hipertension { get; set; }
-        public float VIH { get; set; }
-        public float Depresion { get; set; }
-        public float Dislipidemia { get; set; }
-        public float Cardio { get; set; }
-        public float Hepatitis { get; set; }
-        public float Nutriologo { get; set; }
-        public float Oftalmologo { get; set; }
-        public float Podologo { get; set; }
-        public float Motora { get; set; }
-        public float Visual { get; set; }
-        public float Peso { get; set; }
-        public float Estatura { get; set; }
+        public int EDAD { get; set; }
+        public int GENERO { get; set; }
+        public int PADRES { get; set; }
+        public int HERMANOS { get; set; }
+        public int HIJOS { get; set; }
+        public int OTROS { get; set; }
+        public int ACTIVIDAD_FISICA { get; set; }
+        public int TABAQUISMO { get; set; }
+        public int TUBERCULOSIS { get; set; }
+        public int CANCER { get; set; }
+        public int OBESIDAD { get; set; }
+        public int HIPERTENSION { get; set; }
+        public int VIH { get; set; }
+        public int DEPRESION { get; set; }
+        public int DISLIPIDEMIA { get; set; }
+        public int CARDIO { get; set; }
+        public int HEPATITIS { get; set; }
+        public int NUTRIOLOGO { get; set; }
+        public int OFTALMOLOGO { get; set; }
+        public int PODOLOGO { get; set; }
+        public int MOTORA { get; set; }
+        public int VISUAL { get; set; }
+        public int PESO { get; set; }
+        public int ESTATURA { get; set; }
     }
 }
