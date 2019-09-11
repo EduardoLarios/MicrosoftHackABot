@@ -1,0 +1,15 @@
+C:\Hack\MicrosoftHackABot\DiaBOT\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Hack\MicrosoftHackABot\DiaBOT\bin\Debug\netcoreapp2.1\DiaBOT.deps.json
+C:\Hack\MicrosoftHackABot\DiaBOT\bin\Debug\netcoreapp2.1\DiaBOT.runtimeconfig.json
+C:\Hack\MicrosoftHackABot\DiaBOT\bin\Debug\netcoreapp2.1\DiaBOT.runtimeconfig.dev.json
+C:\Hack\MicrosoftHackABot\DiaBOT\bin\Debug\netcoreapp2.1\DiaBOT.dll
+C:\Hack\MicrosoftHackABot\DiaBOT\bin\Debug\netcoreapp2.1\DiaBOT.pdb
+C:\Hack\MicrosoftHackABot\DiaBOT\obj\Debug\netcoreapp2.1\DiaBOT.csprojAssemblyReference.cache
+C:\Hack\MicrosoftHackABot\DiaBOT\obj\Debug\netcoreapp2.1\DiaBOT.csproj.CoreCompileInputs.cache
+C:\Hack\MicrosoftHackABot\DiaBOT\obj\Debug\netcoreapp2.1\DiaBOT.RazorAssemblyInfo.cache
+C:\Hack\MicrosoftHackABot\DiaBOT\obj\Debug\netcoreapp2.1\DiaBOT.RazorAssemblyInfo.cs
+C:\Hack\MicrosoftHackABot\DiaBOT\obj\Debug\netcoreapp2.1\DiaBOT.AssemblyInfoInputs.cache
+C:\Hack\MicrosoftHackABot\DiaBOT\obj\Debug\netcoreapp2.1\DiaBOT.AssemblyInfo.cs
+C:\Hack\MicrosoftHackABot\DiaBOT\obj\Debug\netcoreapp2.1\DiaBOT.RazorTargetAssemblyInfo.cache
+C:\Hack\MicrosoftHackABot\DiaBOT\obj\Debug\netcoreapp2.1\DiaBOT.dll
+C:\Hack\MicrosoftHackABot\DiaBOT\obj\Debug\netcoreapp2.1\DiaBOT.pdb
